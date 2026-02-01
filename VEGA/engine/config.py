@@ -1,0 +1,3 @@
+ASSISTANT_NAME = "vega"
+LLM_KEY = "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"
+PORCUPINE_ACCESS_KEY = "your_porcupine_access_key_here"

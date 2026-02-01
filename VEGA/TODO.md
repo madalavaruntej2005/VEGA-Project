@@ -1,0 +1,4 @@
+- [ ] Modify openCommand in features.py to handle "youtube" by opening https://www.youtube.com and "whatsapp" by opening https://web.whatsapp.com
+- [ ] Add handling for "play" commands in command.py to call PlayYoutube for playing songs
+- [ ] Test the updated commands: "open youtube", "open whatsapp", "play songs"
+- [ ] Verify that subprocess calls and os.system work correctly for opening apps/websites
